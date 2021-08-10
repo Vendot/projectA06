@@ -126,7 +126,7 @@ font-size: 40px;
 .lesson-wrapper .container {
     margin: 0 auto;
     padding: 0 15px;
-    width: 1170px;
+    width: 100%;
 }
 
 .lesson p {
