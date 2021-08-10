@@ -1,4 +1,44 @@
 /*awal bagian top*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    font-size: 15px;
+    font-family: 'Georama', sans-serif;
+    width: 100%;
+    height: 60px;
+    background-image: url(blue_background.jpg);
+    background-size: cover;
+    position: fixed;
+}
+
+.logo {
+    font-size: 20px;
+    color: azure;
+    margin : 20px 50px;
+    float: left;
+}
+
+.header-right {
+    float: right;
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px 40px;
+}
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://img.freepik.com/free-vector/back-school-new-normal-lifestyle-concept-happy-kids-wearing-face-mask-social-distancing-protect_83111-1086.jpg?size=626&ext=jpg);
