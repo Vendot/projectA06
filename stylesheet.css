@@ -1,4 +1,4 @@
-/*awal bagian top*/
+
 * {
     margin: 0;
     padding: 0;
@@ -38,7 +38,7 @@ li {
     display: inline-block;
     padding: 20px 40px;
 }
-
+/*awal bagian top*/
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://img.freepik.com/free-vector/back-school-new-normal-lifestyle-concept-happy-kids-wearing-face-mask-social-distancing-protect_83111-1086.jpg?size=626&ext=jpg);
