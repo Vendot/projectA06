@@ -99,3 +99,48 @@ img {
     height: 250px;
 }
 /* akhir bagian lesson */
+
+.message-wrapper{
+    font-family: 'Georgia' ;
+    padding-top:100px;
+    padding-bottom :100px;
+    color :black;
+}
+
+.container{
+    width: 100%;
+  padding : 0 auto;
+  margin : 0 auto;
+  text-align: center;
+}
+
+.btn-wrapper{
+  text-align: center;
+  margin: 50px 0;
+}
+
+.syringe{
+  background-color: #0051ff; 
+}
+
+.btn{
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 6px;
+  text-decoration: none;
+  text-align: center;
+  margin : 0 auto;
+  box-shadow: 0 7px #000e2c;
+}
+
+.btn:hover{
+  opacity: 1;
+}
+
+.btn:active{
+  box-shadow: none;
+  position: relative;
+  top: 7px;
+}
