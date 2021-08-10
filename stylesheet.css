@@ -78,11 +78,12 @@ li {
 
 .facebook {
   background-color: #3b5998;
-  margin-right: 10px;
+  margin-right: 40px;
 }
 
 .twitter {
   background-color: #55acee;
+  margin-left: 40px;
 }
 
 .btn:hover {
