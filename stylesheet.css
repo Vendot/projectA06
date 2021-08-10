@@ -99,7 +99,7 @@ img {
     height: 250px;
 }
 /* akhir bagian lesson */
-
+/* awal bagian message*/
 .message-wrapper{
     font-family: 'Georgia' ;
     padding-top:100px;
@@ -144,3 +144,4 @@ img {
   position: relative;
   top: 7px;
 }
+/*akhir bagian message*/
