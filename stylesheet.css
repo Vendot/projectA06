@@ -1,3 +1,60 @@
+/*awal bagian top*/
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://img.freepik.com/free-vector/back-school-new-normal-lifestyle-concept-happy-kids-wearing-face-mask-social-distancing-protect_83111-1086.jpg?size=626&ext=jpg);
+  background-size: cover;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.top-wrapper h2 {
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  margin-bottom: 3px;
+  font-size: 20px;
+  font-style: georgia;
+  font-weight: bold;
+  color: black;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 2px;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  margin-bottom: 3px;
+  font-size: 16px;
+  font-style: georgia;
+  color: black;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+/*akhir bagian Top*/
+
+
 /* awal bagian lesson */
 .lesson-wrapper {
 height: 850px;
