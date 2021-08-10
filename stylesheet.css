@@ -1,0 +1,44 @@
+/* awal bagian lesson */
+.lesson-wrapper {
+height: 850px;
+padding-bottom: 80px;
+background-color: #35c0eb;
+text-align: center;
+}
+
+.heading {
+padding-top: 60px;
+padding-bottom: 30px;
+color: white;
+}
+
+.heading h2 {
+font-weight: bold;
+font-family: Georgia;
+font-size: 40px;
+}
+
+.lesson {
+    float: left;
+    width: 30%;
+    padding-bottom: 35px;
+    padding-left: 30px;
+}
+
+.lesson-wrapper .container {
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 1170px;
+}
+
+.lesson p {
+    color: white;
+    font-family: Georgia;
+    font-size: 18px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+/* akhir bagian lesson */
