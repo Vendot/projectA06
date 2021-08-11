@@ -186,3 +186,39 @@ img {
   top: 7px;
 }
 /*akhir bagian message*/
+footer {
+    background-color: #eef8ff;
+    height: 100px;
+    width: 100%;
+}
+
+.footer-left {
+    float: left;
+}
+
+.logo {
+    font-family: 'Georama', sans-serif;
+    font-size: 20px;
+    color: #4169E1;
+    margin : 20px 50px;
+}
+
+.footer-left h3 {
+    font-size: 10px;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer-right {
+    float: right;
+}
+
+.icon {
+    padding: 15px 15px;
+    list-style: none;
+    font-size: 10px;
+}
+
+.fab {
+    padding-right: 5px;
+}
