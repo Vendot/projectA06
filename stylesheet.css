@@ -80,7 +80,7 @@ opacity: 0.8;
 .top-wrapper h2 {
 text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 margin-bottom: 3px;
-font-size: 20px;
+font-size: 40px;
 font-style: georgia;
 font-weight: bold;
 color: black;
@@ -101,7 +101,7 @@ margin: 20px 0;
 .btn-wrapper p {
 text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 margin-bottom: 3px;
-font-size: 16px;
+font-size: 20px;
 font-style: georgia;
 color: black;
 }
@@ -221,7 +221,27 @@ box-shadow: none;
 position: relative;
 top: 7px;
 }
+
+.kotak{
+    width: 130px;
+    height: 80px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+    text-align: center;
+    margin: 0 auto;
+    animation-iteration-count: infinite;
+    line-height: 80px;
+    border-radius: 6px;
+  }
+  
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+
 /*akhir bagian message*/
+
 footer {
   background-color: #eef8ff;
   height: 100px;
