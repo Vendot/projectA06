@@ -33,7 +33,7 @@ header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
 }
 
-li {
+.header-right li {
     list-style-type: none;
     display: inline-block;
     padding: 20px 40px;
@@ -44,16 +44,16 @@ li {
   background-image: url(https://img.freepik.com/free-vector/back-school-new-normal-lifestyle-concept-happy-kids-wearing-face-mask-social-distancing-protect_83111-1086.jpg?size=626&ext=jpg);
   background-size: cover;
   text-align: center;
-  opacity: 0.8;
 }
 
 .top-wrapper h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
   margin-bottom: 3px;
   font-size: 20px;
-  font-style: georgia;
   font-weight: bold;
-  color: black;
+  color: rgb(8, 8, 8);
+  padding-top: 30px;
 }
 
 .btn {
@@ -90,9 +90,6 @@ li {
   opacity: 1;
 }
 
-.fa {
-  margin-right: 5px;
-}
 /*akhir bagian Top*/
 
 
@@ -196,7 +193,7 @@ footer {
     float: left;
 }
 
-.logo {
+.logo-footer {
     font-family: 'Georama', sans-serif;
     font-size: 20px;
     color: #4169E1;
@@ -205,20 +202,21 @@ footer {
 
 .footer-left h3 {
     font-size: 10px;
-    margin-left: 50px;
     font-family: 'Poppins', sans-serif;
 }
 
 .footer-right {
     float: right;
+    padding-right: 10px;
 }
 
 .icon {
-    padding: 15px 15px;
-    list-style: none;
-    font-size: 10px;
+  padding-top: 20px;
+  list-style: none;
+  font-size: 10px;
 }
 
 .fab {
-    padding-right: 5px;
+  float: left;
+  padding-right: 5px;
 }
