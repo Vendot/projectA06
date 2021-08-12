@@ -56,7 +56,7 @@ header {
 
 .menu-icon {
   color:white;
-  float: left;
+  float: right;
   font-size: 25px;
   padding: 21px 0;
   /* Gantikan property display ke none */
